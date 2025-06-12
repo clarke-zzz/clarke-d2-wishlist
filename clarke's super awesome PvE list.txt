@@ -4512,8 +4512,7 @@ dimwishlist:item=1952163498&perks=1482024992,679225683,2039302152,3425386926
 
 
 // Whisper of the Worm - clarke's recommended PvE (god-pve,mnk,controller)
-//notes: Best Oryx damage ever, and just overall fun and reliable boss dps. (except zoetic lockset)
-Spec into stability to not get flung way off target when getting hit by anything, or invest in handling for faster swaps and ADS speed. tags:god-pve,mnk,controller
+//notes: Best Oryx damage ever, and just overall fun and reliable boss dps. (except zoetic lockset) Spec into stability to not get flung way off target when getting hit by anything, or invest in handling for faster swaps and ADS speed. tags:god-pve,mnk,controller
 dimwishlist:item=1983149589&perks=839105230,3230963543,777589559,4259401308,3732232161
 dimwishlist:item=1983149589&perks=839105230,3230963543,777589559,1067908860,3732232161
 dimwishlist:item=1983149589&perks=839105230,3230963543,777589559,3465198467,3732232161
