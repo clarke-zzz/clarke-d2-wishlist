@@ -9868,7 +9868,6 @@ dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,699525795
 
 // Night Watch - clarke's recommended PvE (pve,mnk,controller)
 //notes: Though it doesn't show in the API anymore, I would highly recommend overflow in the first column. It used to exist as the curated roll from Shaw Han, so I hope you still have it! tags:pve,mnk,controller
-dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973
 dimwishlist:item=3504336176&perks=839105230,3142289711,1820235745,3038247973
 dimwishlist:item=3504336176&perks=839105230,3142289711,1820235745,3425386926
 dimwishlist:item=3504336176&perks=839105230,3142289711,1820235745,3523296417
@@ -10647,7 +10646,7 @@ dimwishlist:item=3698448090&perks=1840239774,3230963543,619537267,1067908860,193
 
 
 // Outbreak Perfected - clarke's recommended PvE (god-pve,mnk,controller)
-//notes: Fantastic weapon for add-clear and backup boss damage. While any of rewind rounds, rapid hit, or outlaw increase DPS, I would recommend rewind rounds as the nanite damage contributes to rewind amount. tags:god-pve,mnk,controller
+//notes: Fantastic weapon for add-clear and backup boss damage. While any of rewind rounds, rapid hit, or outlaw are good choices, I would recommend rewind rounds as the nanite damage contributes to rewind amount. tags:god-pve,mnk,controller
 dimwishlist:item=3824673936&perks=839105230,106909392,2578928832,3242533954,3465198467,4135406211
 dimwishlist:item=3824673936&perks=839105230,106909392,2578928832,3242533954,1067908860,4135406211
 dimwishlist:item=3824673936&perks=839105230,106909392,2578928832,3242533954,4259401308,4135406211
