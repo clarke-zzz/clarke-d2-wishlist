@@ -672,6 +672,16 @@ dimwishlist:item=153979396&perks=1392496348,4134353779,2387244414,2720533289
 dimwishlist:item=153979399&perks=1467527085,3142289711,2387244414,2720533289
 
 
+// Requiem-45 - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=159056377&perks=965619223,3142289711,2387244414
+dimwishlist:item=159056377&perks=965619223,3177308360,2387244414
+dimwishlist:item=159056377&perks=3151536503,3142289711,2387244414
+dimwishlist:item=159056377&perks=3151536503,3177308360,2387244414
+dimwishlist:item=159056377&perks=3151536501,3142289711,2387244414
+dimwishlist:item=159056377&perks=3151536501,3177308360,2387244414
+
+
 // Machina Dei 4 - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=161537636&perks=1467527085,1561002382,2010801679
@@ -706,6 +716,13 @@ dimwishlist:item=174804902&perks=4090651448,3161816588,706527188
 dimwishlist:item=174804902&perks=4090651448,1168162263,706527188
 dimwishlist:item=174804902&perks=1392496348,3161816588,706527188
 dimwishlist:item=174804902&perks=1392496348,1168162263,706527188
+
+
+// Redrix's Claymore - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=191996029&perks=3661387068,3124871000,3047969693
+dimwishlist:item=191996029&perks=4090651448,3124871000,3047969693
+dimwishlist:item=191996029&perks=1392496348,3124871000,3047969693
 
 
 // Premonition - clarke's recommended PvE (pve,mnk,controller)
@@ -1032,6 +1049,14 @@ dimwishlist:item=208088207&perks=1482024992,679225683,1168162263,3523296417
 dimwishlist:item=208088207&perks=1482024992,679225683,1168162263,2848615171
 
 
+// Magnum Shepherd - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=210065223&perks=679077872,2420895100,2213355989
+dimwishlist:item=210065223&perks=679077872,1431678320,2213355989
+dimwishlist:item=210065223&perks=2405638015,2420895100,2213355989
+dimwishlist:item=210065223&perks=2405638015,1431678320,2213355989
+
+
 // Whispering Slab - clarke's recommended PvE (pve,mnk,controller)
 //notes: clarke (PvE): I would recommend polymer string with a draw time MW to reach 500ms. tags:pve,mnk,controller
 dimwishlist:item=211938782&perks=1784898267,16392701,201365942,1546637391
@@ -1112,6 +1137,14 @@ dimwishlist:item=273396910&perks=2054312700,1431678320,2387244414
 dimwishlist:item=273396910&perks=2054312700,106909392,2387244414
 
 
+// Hagakure - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=276918162&perks=3666208348,52780822,354401740
+dimwishlist:item=276918162&perks=3666208348,3625355092,354401740
+dimwishlist:item=276918162&perks=938542991,52780822,354401740
+dimwishlist:item=276918162&perks=938542991,3625355092,354401740
+
+
 // Negative Space - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=287042892&perks=3666208348,3625355092,3913600130
@@ -1134,6 +1167,16 @@ dimwishlist:item=287042894&perks=436053704,52780822,1749209109
 dimwishlist:item=287042894&perks=436053704,3625355092,1749209109
 dimwishlist:item=287042894&perks=2827049491,52780822,1749209109
 dimwishlist:item=287042894&perks=2827049491,3625355092,1749209109
+
+
+// The Vision - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=293505772&perks=445755711,3142289711,1015611457
+dimwishlist:item=293505772&perks=445755711,1087426260,1015611457
+dimwishlist:item=293505772&perks=445755705,3142289711,1015611457
+dimwishlist:item=293505772&perks=445755705,1087426260,1015611457
+dimwishlist:item=293505772&perks=445755710,3142289711,1015611457
+dimwishlist:item=293505772&perks=445755710,1087426260,1015611457
 
 
 // Outlast - clarke's recommended PvE (pve,mnk,controller)
@@ -1885,6 +1928,16 @@ dimwishlist:item=425681240&perks=3798852852,3301904089,1942880504,3007133316,225
 dimwishlist:item=425681240&perks=3798852852,3301904089,1942880504,3007133316,2509860981
 
 
+// Shining Sphere - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=432716552&perks=3525010810,2985827016,706527188
+dimwishlist:item=432716552&perks=3525010810,2822142346,706527188
+dimwishlist:item=432716552&perks=1441682018,2985827016,706527188
+dimwishlist:item=432716552&perks=1441682018,2822142346,706527188
+dimwishlist:item=432716552&perks=981914802,2985827016,706527188
+dimwishlist:item=432716552&perks=981914802,2822142346,706527188
+
+
 // Nature of the Beast - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=468276817&perks=1926090090,1087426260,2848615171
@@ -2502,6 +2555,14 @@ dimwishlist:item=515224227&perks=1300023272,791862061,972757866
 dimwishlist:item=515224227&perks=1300023272,106909392,972757866
 dimwishlist:item=515224227&perks=4090651448,791862061,972757866
 dimwishlist:item=515224227&perks=4090651448,106909392,972757866
+
+
+// Beidenhander - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=516243773&perks=2054312700,2420895100,2010801679
+dimwishlist:item=516243773&perks=2054312700,1561002382,2010801679
+dimwishlist:item=516243773&perks=2054312701,2420895100,2010801679
+dimwishlist:item=516243773&perks=2054312701,1561002382,2010801679
 
 
 // BrayTech Werewolf - clarke's recommended PvE (pve,mnk,controller)
@@ -3299,6 +3360,14 @@ dimwishlist:item=614426548&perks=938542991,269888150,2590710093,3913600130
 dimwishlist:item=614426548&perks=938542991,269888150,2590710093,3708227201
 
 
+// Proelium FR3 - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=618554398&perks=1409978308,1687452232,957782887
+dimwishlist:item=618554398&perks=1409978308,3868766766,957782887
+dimwishlist:item=618554398&perks=1628165637,1687452232,957782887
+dimwishlist:item=618554398&perks=1628165637,3868766766,957782887
+
+
 // Jorum's Claw - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=622058944&perks=965619223,1087426260,1168162263
@@ -3307,6 +3376,16 @@ dimwishlist:item=622058944&perks=3151536503,1087426260,1168162263
 dimwishlist:item=622058944&perks=3151536503,4134353779,1168162263
 dimwishlist:item=622058944&perks=360593482,1087426260,1168162263
 dimwishlist:item=622058944&perks=360593482,4134353779,1168162263
+
+
+// Jian 7 Rifle (god-pve,mnk,controller)
+//notes: tags:god-pve,mnk,controller
+dimwishlist:item=625672050&perks=360593482,1885400500,2387244414
+dimwishlist:item=625672050&perks=360593482,1087426260,2387244414
+dimwishlist:item=625672050&perks=965619223,1885400500,2387244414
+dimwishlist:item=625672050&perks=965619223,1087426260,2387244414
+dimwishlist:item=625672050&perks=360593481,1885400500,2387244414
+dimwishlist:item=625672050&perks=360593481,1087426260,2387244414
 
 
 // Revoker - clarke's recommended PvE (god-pve,mnk,controller)
@@ -3946,6 +4025,30 @@ dimwishlist:item=689294985&perks=1840239774,3230963543,4245865861,2675184851,225
 dimwishlist:item=689294985&perks=1840239774,3230963543,4245865861,2675184851,2120661319
 
 
+// The Frigid Jackal - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=689453941&perks=839105230,3230963543,1168162263
+dimwishlist:item=689453941&perks=839105230,3230963543,706527188
+dimwishlist:item=689453941&perks=839105230,3177308360,1168162263
+dimwishlist:item=689453941&perks=839105230,3177308360,706527188
+dimwishlist:item=689453941&perks=1482024992,3230963543,1168162263
+dimwishlist:item=689453941&perks=1482024992,3230963543,706527188
+dimwishlist:item=689453941&perks=1482024992,3177308360,1168162263
+dimwishlist:item=689453941&perks=1482024992,3177308360,706527188
+dimwishlist:item=689453941&perks=4090651448,3230963543,1168162263
+dimwishlist:item=689453941&perks=4090651448,3230963543,706527188
+dimwishlist:item=689453941&perks=4090651448,3177308360,1168162263
+dimwishlist:item=689453941&perks=4090651448,3177308360,706527188
+
+
+// Finite Impactor - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=701922966&perks=1926090094,1087426260,957782887
+dimwishlist:item=701922966&perks=1926090094,4134353779,957782887
+dimwishlist:item=701922966&perks=1926090091,1087426260,957782887
+dimwishlist:item=701922966&perks=1926090091,4134353779,957782887
+
+
 // Restoration VIII - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=705774642&perks=965619220,3142289711,706527188
@@ -3990,6 +4093,11 @@ dimwishlist:item=715338174&perks=938542991,269888150,1749209109,3913600130
 dimwishlist:item=715338174&perks=938542991,269888150,1749209109,354401740
 dimwishlist:item=715338174&perks=938542991,269888150,2590710093,3913600130
 dimwishlist:item=715338174&perks=938542991,269888150,2590710093,354401740
+
+
+// BrayTech RWP Mk. II - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=717150101&perks=1482024992,106909392,2387244414,3400784728
 
 
 // Hawthorne's Field-Forged Shotgun - clarke's recommended PvE (god-pve,mnk,controller)
@@ -4232,6 +4340,16 @@ dimwishlist:item=807192446&perks=1478423395,332133599,957782887
 dimwishlist:item=807192446&perks=1478423395,3301904089,957782887
 
 
+// Spoiler Alert - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=819358961&perks=445755706,1087426260,1645158859
+dimwishlist:item=819358961&perks=445755706,1968497646,1645158859
+dimwishlist:item=819358961&perks=445755705,1087426260,1645158859
+dimwishlist:item=819358961&perks=445755705,1968497646,1645158859
+dimwishlist:item=819358961&perks=445755704,1087426260,1645158859
+dimwishlist:item=819358961&perks=445755704,1968497646,1645158859
+
+
 // Gnawing Hunger - clarke's recommended PvE (pve,mnk,controller)
 //notes: clarke (PvE): This thing still holds up, however, I recommend looking for a ROS Arago with similar perks. tags:pve,mnk,controller
 dimwishlist:item=821154603&perks=839105230,106909392,1820235745,3425386926
@@ -4312,12 +4430,27 @@ dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3425386926
 dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3523296417
 
 
+// IKELOS_SR_v1.0.1 - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll. Go for the V1.0.3 if possible. tags:god-pve,mnk,controller
+dimwishlist:item=847450546&perks=202670084,1140096971,2551157718,3400784728
+dimwishlist:item=847450546&perks=4090651448,1140096971,2551157718,3400784728
+dimwishlist:item=847450546&perks=1392496348,1140096971,2551157718,3400784728
+
+
 // Acantha-D - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=896923850&perks=1478423395,332133599,972757866
 dimwishlist:item=896923850&perks=1478423395,2870095399,972757866
 dimwishlist:item=896923850&perks=1844523823,332133599,972757866
 dimwishlist:item=896923850&perks=1844523823,2870095399,972757866
+
+
+// Anniella - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=905092001&perks=554078784,3142289711,47981717
+dimwishlist:item=905092001&perks=554078784,3230963543,47981717
+dimwishlist:item=905092001&perks=554078785,3142289711,47981717
+dimwishlist:item=905092001&perks=554078785,3230963543,47981717
 
 
 // Tango-45 - clarke's recommended PvE (god-pve,mnk,controller)
@@ -4494,6 +4627,16 @@ dimwishlist:item=962412079&perks=360593482,1431678320,3425386926
 dimwishlist:item=962412079&perks=360593482,3230963543,3425386926
 
 
+// Allied Demand - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=982229638&perks=445755707,1885400500,3300816228
+dimwishlist:item=982229638&perks=445755707,2420895100,3300816228
+dimwishlist:item=982229638&perks=445755705,1885400500,3300816228
+dimwishlist:item=982229638&perks=445755705,2420895100,3300816228
+dimwishlist:item=982229638&perks=445755711,1885400500,3300816228
+dimwishlist:item=982229638&perks=445755711,2420895100,3300816228
+
+
 // Silicon Neuroma - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=990416096&perks=1392496348,3142289711,957782887
@@ -4592,6 +4735,16 @@ dimwishlist:item=1018072983&perks=436053704,1180618054,3913600130,1749209109
 dimwishlist:item=1018072983&perks=436053704,3732622839,3913600130,1749209109
 dimwishlist:item=1018072983&perks=3666208348,1180618054,3913600130,1749209109
 dimwishlist:item=1018072983&perks=3666208348,3732622839,3913600130,1749209109
+
+
+// Motion to Vacate - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1018777295&perks=3721627275,588594999,47981717
+dimwishlist:item=1018777295&perks=3721627275,3161816588,47981717
+dimwishlist:item=1018777295&perks=3230963543,588594999,47981717
+dimwishlist:item=1018777295&perks=3230963543,3161816588,47981717
+dimwishlist:item=1018777295&perks=2420895100,588594999,47981717
+dimwishlist:item=1018777295&perks=2420895100,3161816588,47981717
 
 
 // Slayer's Fang - clarke's recommended PvE (god-pve,mnk,controller)
@@ -5388,6 +5541,26 @@ dimwishlist:item=1128225405&perks=1467527085,3425386926,1168162263
 dimwishlist:item=1128225405&perks=1467527085,2010801679,1168162263
 
 
+// Foregone Conclusion - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1137768695&perks=13792278,1431678320,2213355989
+dimwishlist:item=1137768695&perks=13792278,1968497646,2213355989
+dimwishlist:item=1137768695&perks=13792279,1431678320,2213355989
+dimwishlist:item=1137768695&perks=13792279,1968497646,2213355989
+dimwishlist:item=1137768695&perks=2405638015,1431678320,2213355989
+dimwishlist:item=1137768695&perks=2405638015,1968497646,2213355989
+
+
+// Vacuna SR4 - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1159252500&perks=1409978308,1968497646,2848615171
+dimwishlist:item=1159252500&perks=1409978308,1087426260,2848615171
+dimwishlist:item=1159252500&perks=1628165637,1968497646,2848615171
+dimwishlist:item=1159252500&perks=1628165637,1087426260,2848615171
+dimwishlist:item=1159252500&perks=194952922,1968497646,2848615171
+dimwishlist:item=1159252500&perks=194952922,1087426260,2848615171
+
+
 // Redrix's Broadsword - clarke's recommended PvE (pve,mnk,controller)
 //notes: clarke (PvE): Kind of curated roll? tags:pve,mnk,controller
 dimwishlist:item=1161276682&perks=839105230,1968497646,1168162263,3047969693
@@ -5618,6 +5791,24 @@ dimwishlist:item=1167153950&perks=1482024992,679225683,2779035018,3425386926
 dimwishlist:item=1167153950&perks=1482024992,679225683,2779035018,2848615171
 dimwishlist:item=1167153950&perks=1482024992,679225683,2869569095,3425386926
 dimwishlist:item=1167153950&perks=1482024992,679225683,2869569095,2848615171
+
+
+// Agrona PR4 - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1178397318&perks=1409978311,1968497646,2848615171
+dimwishlist:item=1178397318&perks=1409978311,3177308360,2848615171
+dimwishlist:item=1178397318&perks=1628165637,1968497646,2848615171
+dimwishlist:item=1178397318&perks=1628165637,3177308360,2848615171
+
+
+// Battle Scar - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1178397319&perks=2209280307,2420895100,4267945040
+dimwishlist:item=1178397319&perks=2209280307,3230963543,4267945040
+dimwishlist:item=1178397319&perks=663495154,2420895100,4267945040
+dimwishlist:item=1178397319&perks=663495154,3230963543,4267945040
+dimwishlist:item=1178397319&perks=4260919525,2420895100,4267945040
+dimwishlist:item=1178397319&perks=4260919525,3230963543,4267945040
 
 
 // Felwinter's Lie - clarke's recommended PvE (god-pve,mnk,controller)
@@ -7625,6 +7816,26 @@ dimwishlist:item=1369487074&perks=4260919524,3142289711,1645158859
 dimwishlist:item=1369487074&perks=4260919524,3177308360,1645158859
 
 
+// Broadsword Launcher - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1392429335&perks=3809316345,3492396210,3300816228
+dimwishlist:item=1392429335&perks=3809316345,2822142346,3300816228
+dimwishlist:item=1392429335&perks=1478423395,3492396210,3300816228
+dimwishlist:item=1392429335&perks=1478423395,2822142346,3300816228
+dimwishlist:item=1392429335&perks=3798852852,3492396210,3300816228
+dimwishlist:item=1392429335&perks=3798852852,2822142346,3300816228
+
+
+// Agamid - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1406475890&perks=1926090095,1431678320,3425386926
+dimwishlist:item=1406475890&perks=1926090095,1968497646,3425386926
+dimwishlist:item=1406475890&perks=1926090090,1431678320,3425386926
+dimwishlist:item=1406475890&perks=1926090090,1968497646,3425386926
+dimwishlist:item=1406475890&perks=1926090093,1431678320,3425386926
+dimwishlist:item=1406475890&perks=1926090093,1968497646,3425386926
+
+
 // Zenobia-D - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=1411084669&perks=1478423395,2822142346,706527188
@@ -7841,6 +8052,16 @@ dimwishlist:item=1481594633&perks=1840239774,1885400500,1524069046,3438534621,42
 dimwishlist:item=1481594633&perks=1840239774,1885400500,3471414563,3326204863,4204405032
 dimwishlist:item=1481594633&perks=1840239774,1885400500,3471414563,862848869,4204405032
 dimwishlist:item=1481594633&perks=1840239774,1885400500,3471414563,3438534621,4204405032
+
+
+// Courageous Surrender - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1489452902&perks=1478423395,3301904089,706527188
+dimwishlist:item=1489452902&perks=1478423395,2822142346,706527188
+dimwishlist:item=1489452902&perks=3798852852,3301904089,706527188
+dimwishlist:item=1489452902&perks=3798852852,2822142346,706527188
+dimwishlist:item=1489452902&perks=1844523823,3301904089,706527188
+dimwishlist:item=1489452902&perks=1844523823,2822142346,706527188
 
 
 // Future Safe 10 - clarke's recommended PvE (god-pve,mnk,controller)
@@ -8786,6 +9007,14 @@ dimwishlist:item=1706536806&perks=1926090093,3142289711,1015611457
 dimwishlist:item=1706536806&perks=1926090093,4134353779,1015611457
 
 
+// The Permanent Truth - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1720373217&perks=1478423395,3301904089,706527188
+dimwishlist:item=1720373217&perks=1478423395,3373736292,706527188
+dimwishlist:item=1720373217&perks=3525010810,3301904089,706527188
+dimwishlist:item=1720373217&perks=3525010810,3373736292,706527188
+
+
 // Enigma's Draw - clarke's recommended PvE (pve,mnk,controller)
 //notes: clarke (PvE): Not much to say here other than hello to a kinetic precision frame sidearm, they are relatively rare. tags:pve,mnk,controller
 dimwishlist:item=1723380073&perks=445755706,1968497646,3400784728,247725512
@@ -8880,6 +9109,32 @@ dimwishlist:item=1723380073&perks=445755705,679225683,1631667848,4082225868
 dimwishlist:item=1723380073&perks=445755705,679225683,1631667848,3523296417
 
 
+// IKELOS_SMG_v1.0.1 - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll. Go for the V1.0.3 if possible. tags:god-pve,mnk,controller
+dimwishlist:item=1723472487&perks=4090651448,3871884143,1140096971,1631667848
+dimwishlist:item=1723472487&perks=4090651448,3871884143,1140096971,4071163871
+dimwishlist:item=1723472487&perks=1840239774,3871884143,1140096971,1631667848
+dimwishlist:item=1723472487&perks=1840239774,3871884143,1140096971,4071163871
+dimwishlist:item=1723472487&perks=1482024992,3871884143,1140096971,1631667848
+dimwishlist:item=1723472487&perks=1482024992,3871884143,1140096971,4071163871
+
+
+// BrayTech Winter Wolf - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1752585070&perks=3250034553,1968497646,2213355989
+dimwishlist:item=1752585070&perks=3250034553,1968497646,2387244414
+dimwishlist:item=1752585070&perks=3250034553,106909392,2213355989
+dimwishlist:item=1752585070&perks=3250034553,106909392,2387244414
+dimwishlist:item=1752585070&perks=1840239774,1968497646,2213355989
+dimwishlist:item=1752585070&perks=1840239774,1968497646,2387244414
+dimwishlist:item=1752585070&perks=1840239774,106909392,2213355989
+dimwishlist:item=1752585070&perks=1840239774,106909392,2387244414
+dimwishlist:item=1752585070&perks=3661387068,1968497646,2213355989
+dimwishlist:item=1752585070&perks=3661387068,1968497646,2387244414
+dimwishlist:item=1752585070&perks=3661387068,106909392,2213355989
+dimwishlist:item=1752585070&perks=3661387068,106909392,2387244414
+
+
 // Legal Action II - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=1760543913&perks=87986588,3142289711,3425386926
@@ -8950,6 +9205,22 @@ dimwishlist:item=1786797708&perks=663495155,3230963543,3643424744,1546637391
 dimwishlist:item=1786797708&perks=663495155,3230963543,3643424744,3708227201
 dimwishlist:item=1786797708&perks=663495155,3230963543,4071163871,1546637391
 dimwishlist:item=1786797708&perks=663495155,3230963543,4071163871,3708227201
+
+
+// 18 Kelvins - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1798874854&perks=3250034553,3142289711,1015611457
+dimwishlist:item=1798874854&perks=3250034553,3142289711,47981717
+dimwishlist:item=1798874854&perks=3250034553,106909392,1015611457
+dimwishlist:item=1798874854&perks=3250034553,106909392,47981717
+dimwishlist:item=1798874854&perks=1840239774,3142289711,1015611457
+dimwishlist:item=1798874854&perks=1840239774,3142289711,47981717
+dimwishlist:item=1798874854&perks=1840239774,106909392,1015611457
+dimwishlist:item=1798874854&perks=1840239774,106909392,47981717
+dimwishlist:item=1798874854&perks=1482024992,3142289711,1015611457
+dimwishlist:item=1798874854&perks=1482024992,3142289711,47981717
+dimwishlist:item=1798874854&perks=1482024992,106909392,1015611457
+dimwishlist:item=1798874854&perks=1482024992,106909392,47981717
 
 
 // Hawthorne's Field-Forged Shotgun - clarke's recommended PvE (pve,mnk,controller)
@@ -11732,6 +12003,16 @@ dimwishlist:item=1885753223&perks=360593483,1561002382,2848615171
 dimwishlist:item=1885753223&perks=360593483,3230963543,2848615171
 
 
+// IKELOS_SG_v1.0.1 - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll. Go for the V1.0.3 if possible. tags:god-pve,mnk,controller
+dimwishlist:item=1887808042&perks=1332244541,806159697,106909392,588594999
+dimwishlist:item=1887808042&perks=1332244541,806159697,106909392,4071163871
+dimwishlist:item=1887808042&perks=3250034553,806159697,106909392,588594999
+dimwishlist:item=1887808042&perks=3250034553,806159697,106909392,4071163871
+dimwishlist:item=1887808042&perks=1392496348,806159697,106909392,588594999
+dimwishlist:item=1887808042&perks=1392496348,806159697,106909392,4071163871
+
+
 // The Summoner - clarke's recommended PvE (pve,mnk,controller)
 //notes: clarke (PvE): Awesome feeling auto rifle. I would recommend focusing the reissue from season of the wish (s23) for some newer perk options. tags:pve,mnk,controller
 dimwishlist:item=1907698332&perks=839105230,1968497646,3643424744,3425386926
@@ -11948,6 +12229,37 @@ dimwishlist:item=1927800278&perks=1628165637,1087426260,588594999
 dimwishlist:item=1927800278&perks=1628165637,3177308360,588594999
 dimwishlist:item=1927800278&perks=194952923,1087426260,588594999
 dimwishlist:item=1927800278&perks=194952923,3177308360,588594999
+
+
+// BrayTech Osprey - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1929278169&perks=1441682018,2822142346,1275731761
+dimwishlist:item=1929278169&perks=1441682018,3492396210,1275731761
+dimwishlist:item=1929278169&perks=1441682018,2985827016,1275731761
+dimwishlist:item=1929278169&perks=3525010810,2822142346,1275731761
+dimwishlist:item=1929278169&perks=3525010810,3492396210,1275731761
+dimwishlist:item=1929278169&perks=3525010810,2985827016,1275731761
+dimwishlist:item=1929278169&perks=3809316345,2822142346,1275731761
+dimwishlist:item=1929278169&perks=3809316345,3492396210,1275731761
+dimwishlist:item=1929278169&perks=3809316345,2985827016,1275731761
+
+
+// Archimedes Truth - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1940885628&perks=911046886,106909392,3400784728
+dimwishlist:item=1940885628&perks=911046886,1431678320,3400784728
+dimwishlist:item=1940885628&perks=911046884,106909392,3400784728
+dimwishlist:item=1940885628&perks=911046884,1431678320,3400784728
+
+
+// Dark Decider - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=1942069133&perks=4090651448,2420895100,3300816228
+dimwishlist:item=1942069133&perks=4090651448,1561002382,3300816228
+dimwishlist:item=1942069133&perks=1392496348,2420895100,3300816228
+dimwishlist:item=1942069133&perks=1392496348,1561002382,3300816228
+dimwishlist:item=1942069133&perks=1840239774,2420895100,3300816228
+dimwishlist:item=1942069133&perks=1840239774,1561002382,3300816228
 
 
 // Truthteller - clarke's recommended PvE (god-pve,mnk,controller)
@@ -12194,6 +12506,16 @@ dimwishlist:item=2071412133&perks=1926090090,2039302152,1631667848
 dimwishlist:item=2071412133&perks=1926090090,1168162263,1631667848
 dimwishlist:item=2071412133&perks=1926090091,2039302152,1631667848
 dimwishlist:item=2071412133&perks=1926090091,1168162263,1631667848
+
+
+// Last of the Legion - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=2084611899&perks=4090651448,2387244414,4267945040
+dimwishlist:item=2084611899&perks=4090651448,2010801679,4267945040
+dimwishlist:item=2084611899&perks=3250034553,2387244414,4267945040
+dimwishlist:item=2084611899&perks=3250034553,2010801679,4267945040
+dimwishlist:item=2084611899&perks=1840239774,2387244414,4267945040
+dimwishlist:item=2084611899&perks=1840239774,2010801679,4267945040
 
 
 // Traveler's Judgment 5 - clarke's recommended PvE (god-pve,mnk,controller)
@@ -12469,6 +12791,14 @@ dimwishlist:item=2164448701&perks=1482024992,3230963543,1556840489,3038247973
 dimwishlist:item=2164448701&perks=1482024992,3230963543,2450788523,706527188
 dimwishlist:item=2164448701&perks=1482024992,3230963543,2450788523,247725512
 dimwishlist:item=2164448701&perks=1482024992,3230963543,2450788523,3038247973
+
+
+// Service Revolver - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=2171006181&perks=1926090092,1968497646,1168162263
+dimwishlist:item=2171006181&perks=1926090092,3142289711,1168162263
+dimwishlist:item=2171006181&perks=1926090090,1968497646,1168162263
+dimwishlist:item=2171006181&perks=1926090090,3142289711,1168162263
 
 
 // Dead Man's Tale - clarke's recommended PvE (god-pve,mnk,controller)
@@ -13010,6 +13340,16 @@ dimwishlist:item=2414612777&perks=2054312701,3177308360,1890422124
 // Rose - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=2429822976&perks=2467967826,2635532173,1528281896,2078097559
+
+
+// The Quickstep - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=2433826056&perks=965619220,3177308360,1359896290
+dimwishlist:item=2433826056&perks=965619220,3230963543,1359896290
+dimwishlist:item=2433826056&perks=3151536501,3177308360,1359896290
+dimwishlist:item=2433826056&perks=3151536501,3230963543,1359896290
+dimwishlist:item=2433826056&perks=3151536503,3177308360,1359896290
+dimwishlist:item=2433826056&perks=3151536503,3230963543,1359896290
 
 
 // Mechabre - clarke's recommended PvE (pve,mnk,controller)
@@ -13775,6 +14115,16 @@ dimwishlist:item=2535939781&perks=911046884,4134353779,1168162263
 dimwishlist:item=2535939781&perks=911046884,1885400500,1168162263
 
 
+// Scipio-D - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=2544285846&perks=1441682018,1996142143,3300816228
+dimwishlist:item=2544285846&perks=1441682018,2985827016,3300816228
+dimwishlist:item=2544285846&perks=981914802,1996142143,3300816228
+dimwishlist:item=2544285846&perks=981914802,2985827016,3300816228
+dimwishlist:item=2544285846&perks=3798852852,1996142143,3300816228
+dimwishlist:item=2544285846&perks=3798852852,2985827016,3300816228
+
+
 // Enigma's Draw - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=2581162758&perks=445755706,1561002382,2387244414
@@ -14211,6 +14561,16 @@ dimwishlist:item=2603335652&perks=1840239774,679225683,2014892510,4104185692,225
 dimwishlist:item=2603335652&perks=1840239774,679225683,2014892510,4293542123,2250679103
 dimwishlist:item=2603335652&perks=1840239774,679225683,2014892510,3007133316,2250679103
 dimwishlist:item=2603335652&perks=1840239774,679225683,2014892510,2675184851,2250679103
+
+
+// Imminent Storm - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=2611861926&perks=2405638015,3230963543,1866048759
+dimwishlist:item=2611861926&perks=2405638015,3177308360,1866048759
+dimwishlist:item=2611861926&perks=13792278,3230963543,1866048759
+dimwishlist:item=2611861926&perks=13792278,3177308360,1866048759
+dimwishlist:item=2611861926&perks=13792279,3230963543,1866048759
+dimwishlist:item=2611861926&perks=13792279,3177308360,1866048759
 
 
 // Play of the Game - clarke's recommended PvE (god-pve,mnk,controller)
@@ -16320,6 +16680,16 @@ dimwishlist:item=2910326942&perks=3768438372,16392701,2799667909,3326204863,3726
 dimwishlist:item=2910326942&perks=3768438372,16392701,2799667909,3326204863,372672209
 dimwishlist:item=2910326942&perks=3768438372,16392701,2799667909,3326204863,372672210
 dimwishlist:item=2910326942&perks=3768438372,16392701,2799667909,3326204863,372672211
+
+
+// Basilisk - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=2928437919&perks=466087222,2420895100,3300816228
+dimwishlist:item=2928437919&perks=466087222,3142289711,3300816228
+dimwishlist:item=2928437919&perks=1332244541,2420895100,3300816228
+dimwishlist:item=2928437919&perks=1332244541,3142289711,3300816228
+dimwishlist:item=2928437919&perks=1840239774,2420895100,3300816228
+dimwishlist:item=2928437919&perks=1840239774,3142289711,3300816228
 
 
 // Dream Breaker - clarke's recommended PvE (pve,mnk,controller)
@@ -19569,6 +19939,16 @@ dimwishlist:item=3188460622&perks=1482024992,106909392,2387244414
 dimwishlist:item=3188460622&perks=1482024992,1087426260,2387244414
 
 
+// Wishbringer - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=3190698551&perks=1332244541,679225683,4071163871
+dimwishlist:item=3190698551&perks=1332244541,3142289711,4071163871
+dimwishlist:item=3190698551&perks=1300023272,679225683,4071163871
+dimwishlist:item=3190698551&perks=1300023272,3142289711,4071163871
+dimwishlist:item=3190698551&perks=1392496348,679225683,4071163871
+dimwishlist:item=3190698551&perks=1392496348,3142289711,4071163871
+
+
 // Home for the Lost - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=3216383791&perks=1926090091,1431678320,706527188
@@ -21022,6 +21402,24 @@ dimwishlist:item=3424403076&perks=445755710,1885400500,588594999
 dimwishlist:item=3424403076&perks=445755710,3142289711,588594999
 
 
+// Motion to Compel - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=3425561386&perks=3721627275,3161816588,1015611457
+dimwishlist:item=3425561386&perks=3721627275,588594999,1015611457
+dimwishlist:item=3425561386&perks=4134353779,3161816588,1015611457
+dimwishlist:item=3425561386&perks=4134353779,588594999,1015611457
+dimwishlist:item=3425561386&perks=2420895100,3161816588,1015611457
+dimwishlist:item=3425561386&perks=2420895100,588594999,1015611457
+
+
+// Occluded Finality - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=3434507093&perks=1617987575,106909392,2869569095
+dimwishlist:item=3434507093&perks=1617987575,1968497646,2869569095
+dimwishlist:item=3434507093&perks=1617987572,106909392,2869569095
+dimwishlist:item=3434507093&perks=1617987572,1968497646,2869569095
+
+
 // Metronome-52 - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=3434629515&perks=965619220,3230963543,4267945040
@@ -21230,6 +21628,16 @@ dimwishlist:item=3504336176&perks=1482024992,3230963543,1168162263,3523296417
 dimwishlist:item=3504336176&perks=1482024992,3230963543,247725512,3038247973
 dimwishlist:item=3504336176&perks=1482024992,3230963543,247725512,3425386926
 dimwishlist:item=3504336176&perks=1482024992,3230963543,247725512,3523296417
+
+
+// The Marine - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=3529780349&perks=13792278,3177308360,460017080
+dimwishlist:item=3529780349&perks=13792278,3142289711,460017080
+dimwishlist:item=3529780349&perks=2405638015,3177308360,460017080
+dimwishlist:item=3529780349&perks=2405638015,3142289711,460017080
+dimwishlist:item=3529780349&perks=679077872,3177308360,460017080
+dimwishlist:item=3529780349&perks=679077872,3142289711,460017080
 
 
 // Randy's Throwing Knife - clarke's recommended PvE (god-pve,mnk,controller)
@@ -23794,6 +24202,16 @@ dimwishlist:item=3863882743&perks=1409978311,679225683,1631667848,1015611457
 dimwishlist:item=3863882743&perks=1409978311,679225683,3400784728,1015611457
 
 
+// IKELOS_HC_v1.0.1 - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll. Go for the V1.0.3 if possible. tags:god-pve,mnk,controller
+dimwishlist:item=3866356643&perks=4090651448,1140096971,3425386926
+dimwishlist:item=3866356643&perks=4090651448,1140096971,4071163871
+dimwishlist:item=3866356643&perks=1482024992,1140096971,3425386926
+dimwishlist:item=3866356643&perks=1482024992,1140096971,4071163871
+dimwishlist:item=3866356643&perks=1840239774,1140096971,3425386926
+dimwishlist:item=3866356643&perks=1840239774,1140096971,4071163871
+
+
 // Night Terror - clarke's recommended PvE (pve,mnk,controller)
 //notes: clarke (PvE): Still holds up in today's sandbox, but lacks an origin trait. tags:pve,mnk,controller
 dimwishlist:item=3870811754&perks=436053704,52780822,1749209109,3913600130
@@ -24079,6 +24497,16 @@ dimwishlist:item=3937866388&perks=1482024992,3142289711,3523296417,3708227201
 dimwishlist:item=3937866388&perks=1482024992,3142289711,3523296417,2848615171
 
 
+// Motion to Suppress - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=3950088638&perks=3721627275,2039302152,2387244414
+dimwishlist:item=3950088638&perks=3721627275,1359896290,2387244414
+dimwishlist:item=3950088638&perks=1885400500,2039302152,2387244414
+dimwishlist:item=3950088638&perks=1885400500,1359896290,2387244414
+dimwishlist:item=3950088638&perks=1561002382,2039302152,2387244414
+dimwishlist:item=3950088638&perks=1561002382,1359896290,2387244414
+
+
 // Mob Justice - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=3954531357&perks=1840239774,972757866,588594999
@@ -24129,6 +24557,34 @@ dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3425386926
 dimwishlist:item=3993415705&perks=981914802,3373736292,2846385770,3425386926
 dimwishlist:item=3993415705&perks=1478423395,3301904089,2846385770,3425386926
 dimwishlist:item=3993415705&perks=1478423395,3373736292,2846385770,3425386926
+
+
+// Kibou AR3 - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=4014434381&perks=1409978309,1968497646,2848615171
+dimwishlist:item=4014434381&perks=1409978309,106909392,2848615171
+dimwishlist:item=4014434381&perks=1628165637,1968497646,2848615171
+dimwishlist:item=4014434381&perks=1628165637,106909392,2848615171
+
+
+// The Button - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=4041111172&perks=3809316345,1380253176,706527188
+dimwishlist:item=4041111172&perks=3809316345,2985827016,706527188
+dimwishlist:item=4041111172&perks=1844523823,1380253176,706527188
+dimwishlist:item=4041111172&perks=1844523823,2985827016,706527188
+dimwishlist:item=4041111172&perks=1478423395,1380253176,706527188
+dimwishlist:item=4041111172&perks=1478423395,2985827016,706527188
+
+
+// Pit Launcher - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=4095462486&perks=981914802,1380253176,957782887
+dimwishlist:item=4095462486&perks=981914802,2822142346,957782887
+dimwishlist:item=4095462486&perks=3809316345,1380253176,957782887
+dimwishlist:item=4095462486&perks=3809316345,2822142346,957782887
+dimwishlist:item=4095462486&perks=3525010810,1380253176,957782887
+dimwishlist:item=4095462486&perks=3525010810,2822142346,957782887
 
 
 // Nox Veneris II - clarke's recommended PvE (god-pve,mnk,controller)
@@ -24413,6 +24869,14 @@ dimwishlist:item=4238497225&perks=1467527085,4134353779,47981717
 dimwishlist:item=4238497225&perks=1467527085,4134353779,3425386926
 
 
+// Multimach CCX - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=4265183314&perks=2209280307,3142289711,1359896290
+dimwishlist:item=4265183314&perks=2209280307,1431678320,1359896290
+dimwishlist:item=4265183314&perks=663495154,3142289711,1359896290
+dimwishlist:item=4265183314&perks=663495154,1431678320,1359896290
+
+
 // The Domino - clarke's recommended PvE (god-pve,mnk,controller)
 //notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
 dimwishlist:item=4272442416&perks=767484756,1431678320,972757866
@@ -24543,5 +25007,15 @@ dimwishlist:item=4277547616&perks=1482024992,679225683,1820235745,2848615171
 dimwishlist:item=4277547616&perks=1482024992,679225683,2450788523,1015611457
 dimwishlist:item=4277547616&perks=1482024992,679225683,2450788523,3523296417
 dimwishlist:item=4277547616&perks=1482024992,679225683,2450788523,2848615171
+
+
+// The Emperor's Envy - clarke's recommended PvE (god-pve,mnk,controller)
+//notes: clarke (PvE): Curated roll tags:god-pve,mnk,controller
+dimwishlist:item=4288031461&perks=2969185026,588594999,3425386926
+dimwishlist:item=4288031461&perks=2969185026,2010801679,3425386926
+dimwishlist:item=4288031461&perks=1687452232,588594999,3425386926
+dimwishlist:item=4288031461&perks=1687452232,2010801679,3425386926
+dimwishlist:item=4288031461&perks=1483536627,588594999,3425386926
+dimwishlist:item=4288031461&perks=1483536627,2010801679,3425386926
 
 
