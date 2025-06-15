@@ -24,7 +24,7 @@ dimwishlist:item=14194600&perks=594346985,679225683,3492337375,1067908860
 
 
 // Tango-45 XK5094 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=20025671&perks=360593482,106909392,3300816228,3038247973
 dimwishlist:item=20025671&perks=360593482,106909392,3300816228,3425386926
 dimwishlist:item=20025671&perks=360593482,106909392,3300816228,2848615171
@@ -775,7 +775,7 @@ dimwishlist:item=48361213&perks=445755710,1431678320,3425386926
 
 
 // Good Bone Structure - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=64236626&perks=839105230,791862061,1168162263,3425386926
 dimwishlist:item=64236626&perks=839105230,791862061,1168162263,3400784728
 dimwishlist:item=64236626&perks=839105230,791862061,1168162263,3161816588
@@ -894,7 +894,7 @@ dimwishlist:item=65611680&perks=445755706,679225683,2779035018,1015611457
 
 
 // Avalanche - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=66875353&perks=360593482,1968497646,2039302152,3425386926
 dimwishlist:item=66875353&perks=360593482,1968497646,2039302152,706527188
 dimwishlist:item=66875353&perks=360593482,1968497646,2039302152,4082225868
@@ -1978,7 +1978,7 @@ dimwishlist:item=66875353&perks=3151536503,679225683,1820235745,2848615171
 
 
 // The Ringing Nail - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=93253474&perks=1096957638,1968497646,2848615171,1015611457
 dimwishlist:item=93253474&perks=1096957638,1968497646,2848615171,3425386926
 dimwishlist:item=93253474&perks=1096957638,1968497646,706527188,1015611457
@@ -2072,7 +2072,7 @@ dimwishlist:item=94729174&perks=1300023272,791862061,47981717
 
 
 // Hard Truths - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=105567493&perks=2209280307,1968497646,2039302152,1015611457
 dimwishlist:item=105567493&perks=2209280307,1968497646,2039302152,2213355989
 dimwishlist:item=105567493&perks=2209280307,1968497646,2869569095,1015611457
@@ -2171,7 +2171,7 @@ dimwishlist:item=153979396&perks=1392496348,4134353779,2387244414,2720533289
 
 
 // Better Devils - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=153979397&perks=1926090094,106909392,1168162263,1015611457
 dimwishlist:item=153979397&perks=1926090094,106909392,1168162263,3038247973
 dimwishlist:item=153979397&perks=1926090094,106909392,3400784728,1015611457
@@ -2269,7 +2269,7 @@ dimwishlist:item=191996029&perks=1392496348,3124871000,3047969693
 
 
 // Play of the Game - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=195440257&perks=3809316345,2870095399,2869569095,3425386926
 dimwishlist:item=195440257&perks=3809316345,2870095399,2869569095,706527188
 dimwishlist:item=195440257&perks=3809316345,2870095399,3300816228,3425386926
@@ -2717,7 +2717,7 @@ dimwishlist:item=211938782&perks=3768438372,3827198035,2450788523,3523296417
 
 
 // Edge Transit - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=218335759&perks=3809316345,2870095399,2869569095,3425386926
 dimwishlist:item=218335759&perks=3809316345,2870095399,2869569095,706527188
 dimwishlist:item=218335759&perks=3809316345,2870095399,3300816228,3425386926
@@ -2789,7 +2789,7 @@ dimwishlist:item=228424224&perks=360593481,3142289711,2010801679
 
 
 // Warden's Law - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=233423981&perks=1926090094,106909392,3425386926,1168162263
 dimwishlist:item=233423981&perks=1926090094,106909392,3425386926,2779035018
 dimwishlist:item=233423981&perks=1926090094,106909392,1015611457,1168162263
@@ -2829,7 +2829,7 @@ dimwishlist:item=233423981&perks=1926090092,4134353779,1015611457,2779035018
 
 
 // Main Ingredient - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=253196586&perks=13792279,689005463,3300816228,1600092898
 dimwishlist:item=253196586&perks=13792279,689005463,3300816228,3425386926
 dimwishlist:item=253196586&perks=13792279,689005463,4071163871,1600092898
@@ -2957,7 +2957,7 @@ dimwishlist:item=301362380&perks=3809316345,1771897777,706527188,3425386926
 
 
 // Through Fire and Flood - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=301362381&perks=3525010810,2870095399,2869569095,3425386926
 dimwishlist:item=301362381&perks=3525010810,2870095399,2869569095,706527188
 dimwishlist:item=301362381&perks=3525010810,2870095399,3300816228,3425386926
@@ -2993,7 +2993,7 @@ dimwishlist:item=301362381&perks=3798852852,2822142346,3300816228,706527188
 
 
 // Roar of the Bear - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=308332265&perks=981914802,2822142346,3977735242,3300816228
 dimwishlist:item=308332265&perks=981914802,2822142346,3977735242,706527188
 dimwishlist:item=308332265&perks=981914802,2822142346,2869569095,3300816228
@@ -3032,7 +3032,7 @@ dimwishlist:item=325519402&perks=1482024992,706527188,4267945040
 
 
 // Waking Vigil - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=334171687&perks=1926090094,1968497646,3161816588,2848615171
 dimwishlist:item=334171687&perks=1926090094,1968497646,3161816588,1015611457
 dimwishlist:item=334171687&perks=1926090094,1968497646,3161816588,1546637391
@@ -3199,7 +3199,7 @@ dimwishlist:item=339343291&perks=360593483,3177308360,1168162263
 
 
 // Retold Tale - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=346136302&perks=1300023272,791862061,3161816588,2679249093
 dimwishlist:item=346136302&perks=1300023272,791862061,3161816588,2450788523
 dimwishlist:item=346136302&perks=1300023272,791862061,3161816588,3708227201
@@ -3589,7 +3589,7 @@ dimwishlist:item=417474226&perks=3525010810,2985827016,2869569095
 
 
 // The Spiteful Fang - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=421573768&perks=3768438372,16392701,201365942,3365897133
 dimwishlist:item=421573768&perks=3768438372,3429800428,201365942,3365897133
 dimwishlist:item=421573768&perks=3768438372,3311977193,201365942,3365897133
@@ -4634,7 +4634,7 @@ dimwishlist:item=516243773&perks=2054312701,1561002382,2010801679
 
 
 // Black Scorpion-4sr - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=525750263&perks=839105230,106909392,588594999,3425386926
 dimwishlist:item=525750263&perks=839105230,106909392,588594999,2848615171
 dimwishlist:item=525750263&perks=839105230,106909392,3400784728,3425386926
@@ -5036,7 +5036,7 @@ dimwishlist:item=566976654&perks=1628165637,830282363,1359896290
 
 
 // Chattering Bone - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=568515759&perks=839105230,1968497646,1168162263,3425386926
 dimwishlist:item=568515759&perks=839105230,1561002382,1168162263,3425386926
 dimwishlist:item=568515759&perks=839105230,1885400500,1168162263,3425386926
@@ -5080,7 +5080,7 @@ dimwishlist:item=582335600&perks=1926090092,1087426260,3400784728
 
 
 // Age-Old Bond - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=601592879&perks=839105230,1968497646,3400784728,1015611457
 dimwishlist:item=601592879&perks=839105230,1968497646,3400784728,2848615171
 dimwishlist:item=601592879&perks=839105230,1968497646,2387244414,1015611457
@@ -5424,7 +5424,7 @@ dimwishlist:item=601948197&perks=3666208348,269888150,2617553311,598607952,42649
 
 
 // Hammerhead - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=603242241&perks=839105230,1968497646,2779035018,3708227201
 dimwishlist:item=603242241&perks=839105230,1968497646,2779035018,3425386926
 dimwishlist:item=603242241&perks=839105230,1968497646,706527188,3708227201
@@ -5637,7 +5637,7 @@ dimwishlist:item=625672050&perks=360593481,1087426260,2387244414
 
 
 // Dust Rock Blues - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=636912560&perks=1300023272,791862061,3161816588,3425386926
 dimwishlist:item=636912560&perks=1300023272,791862061,3161816588,3300816228
 dimwishlist:item=636912560&perks=1300023272,791862061,2869569095,3425386926
@@ -5665,7 +5665,7 @@ dimwishlist:item=636912560&perks=4090651448,679225683,2869569095,3300816228
 
 
 // Tigerspite - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=640114618&perks=839105230,1968497646,1168162263,1015611457
 dimwishlist:item=640114618&perks=839105230,1968497646,1168162263,3523296417
 dimwishlist:item=640114618&perks=839105230,1968497646,1168162263,4104185692
@@ -5804,7 +5804,7 @@ dimwishlist:item=640114618&perks=1840239774,679225683,3643424744,4104185692
 
 
 // Nation of Beasts - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=654370424&perks=4090651448,3142289711,1168162263,3038247973
 dimwishlist:item=654370424&perks=4090651448,106909392,1168162263,3038247973
 dimwishlist:item=654370424&perks=4090651448,4134353779,1168162263,3038247973
@@ -6015,7 +6015,7 @@ dimwishlist:item=679281855&perks=1840239774,3868766766,2450788523,1600092898
 
 
 // The Supremacy - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=686951703&perks=839105230,1968497646,1168162263,247725512
 dimwishlist:item=686951703&perks=839105230,1968497646,1168162263,3400784728
 dimwishlist:item=686951703&perks=839105230,1968497646,1168162263,3425386926
@@ -6716,7 +6716,7 @@ dimwishlist:item=720351794&perks=3371775011,3429800428,957782887,1866048759
 
 
 // Arsenic Bite-4b - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=720351795&perks=852209214,16392701,3425386926,3365897133
 dimwishlist:item=720351795&perks=852209214,16392701,3425386926,201365942
 dimwishlist:item=720351795&perks=852209214,16392701,2848615171,3365897133
@@ -6996,7 +6996,7 @@ dimwishlist:item=766323545&perks=1840239774,3230963543,1354429876,1546637391
 
 
 // Nightshade - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=792755504&perks=13792279,106909392,1168162263,3425386926
 dimwishlist:item=792755504&perks=13792279,106909392,1168162263,1015611457
 dimwishlist:item=792755504&perks=13792279,106909392,588594999,3425386926
@@ -7086,7 +7086,7 @@ dimwishlist:item=819358961&perks=445755704,1968497646,1645158859
 
 
 // Misfit - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=819441402&perks=809345546,1968497646,706527188,3425386926
 dimwishlist:item=819441402&perks=809345546,1968497646,706527188,2039302152
 dimwishlist:item=819441402&perks=809345546,1968497646,1631667848,3425386926
@@ -7493,7 +7493,7 @@ dimwishlist:item=990416096&perks=839105230,3230963543,47981717
 
 
 // Bad Omens - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=991314988&perks=981914802,2822142346,2869569095,1275731761
 dimwishlist:item=991314988&perks=981914802,2822142346,2869569095,706527188
 dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761
@@ -7621,7 +7621,7 @@ dimwishlist:item=1048266744&perks=1926090091,3230963543,3038247973
 
 
 // Horror's Least - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1071542914&perks=839105230,1968497646,2387244414,1015611457
 dimwishlist:item=1071542914&perks=839105230,1968497646,2387244414,2848615171
 dimwishlist:item=1071542914&perks=839105230,1968497646,460017080,1015611457
@@ -8711,7 +8711,7 @@ dimwishlist:item=1178397319&perks=4260919525,3230963543,4267945040
 
 
 // Thin Line - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1178886909&perks=1926090094,1885400500,706527188,2848615171
 dimwishlist:item=1178886909&perks=1926090094,1885400500,706527188,3425386926
 dimwishlist:item=1178886909&perks=1926090094,1885400500,3161816588,2848615171
@@ -10556,7 +10556,7 @@ dimwishlist:item=1280894514&perks=1840239774,1431678320,3563868667,1720528630,22
 
 
 // Claws of the Wolf - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1280933460&perks=839105230,1968497646,1168162263,3425386926
 dimwishlist:item=1280933460&perks=839105230,1968497646,1168162263,1015611457
 dimwishlist:item=1280933460&perks=839105230,1968497646,2869569095,3425386926
@@ -10774,7 +10774,7 @@ dimwishlist:item=1325579289&perks=466087222,791862061,3300816228
 
 
 // Badlander - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1327264046&perks=1482024992,106909392,3161816588,3425386926
 dimwishlist:item=1327264046&perks=1482024992,106909392,3161816588,3300816228
 dimwishlist:item=1327264046&perks=1482024992,106909392,2869569095,3425386926
@@ -10838,7 +10838,7 @@ dimwishlist:item=1351035691&perks=1926090090,2420895100,3300816228
 
 
 // Breath of the Dragon - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1357080535&perks=3661387068,1968497646,588594999,1015611457
 dimwishlist:item=1357080535&perks=3661387068,1968497646,588594999,3425386926
 dimwishlist:item=1357080535&perks=3661387068,1968497646,2039302152,1015611457
@@ -10932,7 +10932,7 @@ dimwishlist:item=1369487074&perks=4260919524,3177308360,1645158859
 
 
 // Swift Ride XE8375 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1386601612&perks=360593482,106909392,1168162263,3425386926
 dimwishlist:item=1386601612&perks=360593482,106909392,1168162263,1015611457
 dimwishlist:item=1386601612&perks=360593482,106909392,588594999,3425386926
@@ -11470,7 +11470,7 @@ dimwishlist:item=1513993763&perks=1840239774,3230963543,4071163871,3425386926
 
 
 // Halfdan-D - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1518042134&perks=87986589,106909392,706527188,3425386926
 dimwishlist:item=1518042134&perks=87986589,106909392,706527188,1015611457
 dimwishlist:item=1518042134&perks=87986589,106909392,3300816228,3425386926
@@ -11538,7 +11538,7 @@ dimwishlist:item=1518042134&perks=87986588,4134353779,3300816228,1015611457
 
 
 // Valakadyn - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1518042135&perks=839105230,1968497646,706527188,3425386926
 dimwishlist:item=1518042135&perks=839105230,1968497646,706527188,2213355989
 dimwishlist:item=1518042135&perks=839105230,1968497646,706527188,1015611457
@@ -11870,7 +11870,7 @@ dimwishlist:item=1600633250&perks=1392496348,2420895100,3643424744,2782457288
 
 
 // Abide the Return - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1644160541&perks=436053704,52780822,1749209109,3913600130
 dimwishlist:item=1644160541&perks=436053704,52780822,1749209109,354401740
 dimwishlist:item=1644160541&perks=436053704,52780822,2590710093,3913600130
@@ -12033,7 +12033,7 @@ dimwishlist:item=1650442173&perks=1313805249,1431678320,2213355989
 
 
 // Threat Level - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1664372054&perks=1300023272,106909392,2360754333,4071163871
 dimwishlist:item=1664372054&perks=1300023272,106909392,2360754333,706527188
 dimwishlist:item=1664372054&perks=1300023272,106909392,2360754333,1631667848
@@ -12131,7 +12131,7 @@ dimwishlist:item=1681583613&perks=3666208348,52780822,2753228730,2963428707
 
 
 // Fate Cries Foul - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1684914716&perks=554078785,1968497646,280464955,2848615171
 dimwishlist:item=1684914716&perks=554078785,1968497646,280464955,3400784728
 dimwishlist:item=1684914716&perks=554078785,1968497646,280464955,3425386926
@@ -12698,7 +12698,7 @@ dimwishlist:item=1752585070&perks=3661387068,106909392,2387244414
 
 
 // Acantha-D XK8434 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1757129747&perks=981914802,2870095399,2869569095,3425386926
 dimwishlist:item=1757129747&perks=981914802,2870095399,2869569095,706527188
 dimwishlist:item=1757129747&perks=981914802,2870095399,3300816228,3425386926
@@ -12770,7 +12770,7 @@ dimwishlist:item=1773600468&perks=2405638015,3868766766,1600092898
 
 
 // Galliard-42 XN7568 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1775804198&perks=360593482,1968497646,706527188,3425386926
 dimwishlist:item=1775804198&perks=360593482,1968497646,706527188,1015611457
 dimwishlist:item=1775804198&perks=360593482,1968497646,1168162263,3425386926
@@ -12922,7 +12922,7 @@ dimwishlist:item=1786797708&perks=663495155,3230963543,4071163871,3708227201
 
 
 // Hazard of the Cast - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1789347249&perks=839105230,1968497646,2010801679,3425386926
 dimwishlist:item=1789347249&perks=839105230,1968497646,2010801679,1015611457
 dimwishlist:item=1789347249&perks=839105230,1968497646,3400784728,3425386926
@@ -13148,7 +13148,7 @@ dimwishlist:item=1835747805&perks=1926090092,3230963543,1820235745,3523296417
 
 
 // Ether Doctor - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1839565992&perks=809345546,1968497646,706527188,2039302152
 dimwishlist:item=1839565992&perks=809345546,1968497646,706527188,2213355989
 dimwishlist:item=1839565992&perks=809345546,1968497646,1631667848,2039302152
@@ -13282,7 +13282,7 @@ dimwishlist:item=1842303080&perks=1392496348,3177308360,2387244414
 
 
 // Translation Theory - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1843044398&perks=445755707,1968497646,4071163871,1015611457
 dimwishlist:item=1843044398&perks=445755707,1968497646,4071163871,3425386926
 dimwishlist:item=1843044398&perks=445755707,1968497646,1168162263,1015611457
@@ -13346,7 +13346,7 @@ dimwishlist:item=1843044398&perks=445755705,679225683,1168162263,3425386926
 
 
 // Smuggler's Word - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1843044399&perks=445755707,1968497646,588594999,1015611457
 dimwishlist:item=1843044399&perks=445755707,1968497646,588594999,3425386926
 dimwishlist:item=1843044399&perks=445755707,1968497646,4071163871,1015611457
@@ -15986,7 +15986,7 @@ dimwishlist:item=1845978721&perks=1840239774,3230963543,4223976499,4290541820,40
 
 
 // The Hero's Burden - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1865351684&perks=965619221,1968497646,2039302152,1015611457
 dimwishlist:item=1865351684&perks=965619221,1968497646,2039302152,2213355989
 dimwishlist:item=1865351684&perks=965619221,1968497646,2869569095,1015611457
@@ -16100,7 +16100,7 @@ dimwishlist:item=1870979911&perks=1844523823,3032599245,3300816228
 
 
 // Elegy-49 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1873270090&perks=1617987575,106909392,247725512,3400784728
 dimwishlist:item=1873270090&perks=1617987575,106909392,247725512,3038247973
 dimwishlist:item=1873270090&perks=1617987575,106909392,247725512,3425386926
@@ -16437,7 +16437,7 @@ dimwishlist:item=1929278169&perks=3809316345,2985827016,1275731761
 
 
 // No Feelings - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1931556011&perks=1096957638,106909392,247725512,3038247973
 dimwishlist:item=1931556011&perks=1096957638,106909392,247725512,3425386926
 dimwishlist:item=1931556011&perks=1096957638,106909392,3400784728,3038247973
@@ -16669,7 +16669,7 @@ dimwishlist:item=1960218487&perks=679077872,3177308360,3038247973
 
 
 // Swarm of the Raven - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1972985595&perks=3809316345,2870095399,2869569095,3425386926
 dimwishlist:item=1972985595&perks=3809316345,2870095399,2869569095,706527188
 dimwishlist:item=1972985595&perks=3809316345,2870095399,3300816228,3425386926
@@ -16721,7 +16721,7 @@ dimwishlist:item=1972985595&perks=3798852852,2822142346,3300816228,706527188
 
 
 // Talons of the Eagle - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=1982711279&perks=839105230,106909392,1168162263,3425386926
 dimwishlist:item=1982711279&perks=839105230,106909392,1168162263,3038247973
 dimwishlist:item=1982711279&perks=839105230,106909392,280464955,3425386926
@@ -16830,7 +16830,7 @@ dimwishlist:item=2009106091&perks=852209214,1500996326,247725512,201365942
 
 
 // The Last Dance - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2009277538&perks=445755707,1968497646,4071163871,1015611457
 dimwishlist:item=2009277538&perks=445755707,1968497646,4071163871,2848615171
 dimwishlist:item=2009277538&perks=445755707,1968497646,1168162263,1015611457
@@ -16904,7 +16904,7 @@ dimwishlist:item=2014642399&perks=679077872,2420895100,1890422124
 
 
 // Distant Relation - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2034817450&perks=839105230,106909392,3400784728,3038247973
 dimwishlist:item=2034817450&perks=839105230,3230963543,3400784728,3038247973
 dimwishlist:item=2034817450&perks=839105230,4134353779,3400784728,3038247973
@@ -16960,7 +16960,7 @@ dimwishlist:item=2094938673&perks=1392496348,1866048759,1359896290
 
 
 // Bad Reputation - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2105827099&perks=1288081796,1885400500,2039302152,1015611457
 dimwishlist:item=2105827099&perks=1288081796,1885400500,2039302152,2213355989
 dimwishlist:item=2105827099&perks=1288081796,1885400500,1631667848,1015611457
@@ -17044,7 +17044,7 @@ dimwishlist:item=2105827099&perks=1452368634,679225683,1631667848,2213355989
 
 
 // Duke Mk. 44 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2112909414&perks=1926090094,1168162263,1968497646,2869569095
 dimwishlist:item=2112909414&perks=1926090094,1168162263,1968497646,3425386926
 dimwishlist:item=2112909414&perks=1926090094,1168162263,1968497646,1015611457
@@ -17183,7 +17183,7 @@ dimwishlist:item=2112909414&perks=1926090092,247725512,679225683,1015611457
 
 
 // Ten Paces - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2112909415&perks=1926090094,3142289711,3161816588,1954620775
 dimwishlist:item=2112909415&perks=1926090094,3142289711,3161816588,3425386926
 dimwishlist:item=2112909415&perks=1926090094,3142289711,3400784728,1954620775
@@ -17405,7 +17405,7 @@ dimwishlist:item=2149166939&perks=3798852852,1996142143,4071163871
 
 
 // The Long Goodbye - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2154059444&perks=839105230,1968497646,1168162263,247725512
 dimwishlist:item=2154059444&perks=839105230,1968497646,1168162263,2848615171
 dimwishlist:item=2154059444&perks=839105230,1968497646,1168162263,1354429876
@@ -17703,7 +17703,7 @@ dimwishlist:item=2171006181&perks=1926090090,3142289711,1168162263
 
 
 // Bellowing Giant - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2186258845&perks=981914802,3796465595,706527188,1275731761
 dimwishlist:item=2186258845&perks=981914802,3796465595,706527188,3300816228
 dimwishlist:item=2186258845&perks=981914802,3796465595,2869569095,1275731761
@@ -17839,7 +17839,7 @@ dimwishlist:item=2199171672&perks=1482024992,679225683,247725512,1015611457
 
 
 // Parcel of Stardust - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2217366863&perks=1300023272,791862061,3161816588,3425386926
 dimwishlist:item=2217366863&perks=1300023272,791862061,3161816588,3300816228
 dimwishlist:item=2217366863&perks=1300023272,791862061,4071163871,3425386926
@@ -18113,7 +18113,7 @@ dimwishlist:item=2276266837&perks=3666208348,599007201,1685431615
 
 
 // Does Not Compute - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2278995296&perks=13792279,106909392,3300816228,3038247973
 dimwishlist:item=2278995296&perks=13792279,106909392,3300816228,3425386926
 dimwishlist:item=2278995296&perks=13792279,106909392,3300816228,1015611457
@@ -18395,7 +18395,7 @@ dimwishlist:item=2414612777&perks=2054312701,3177308360,1890422124
 
 
 // Atalanta-D XG1992 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2422664927&perks=87986589,1885400500,2039302152,1015611457
 dimwishlist:item=2422664927&perks=87986589,1885400500,2039302152,2213355989
 dimwishlist:item=2422664927&perks=87986589,1885400500,2869569095,1015611457
@@ -19223,13 +19223,13 @@ dimwishlist:item=2544285846&perks=3798852852,2985827016,3300816228
 
 
 // Apex Predator - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2545083870&perks=3525010810,3796465595,3977735242,3300816228
 dimwishlist:item=2545083870&perks=3798852852,3796465595,3977735242,3300816228
 
 
 // Antiope-D - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2561659919&perks=87986588,1885400500,2039302152,1015611457
 dimwishlist:item=2561659919&perks=87986588,1885400500,2039302152,3300816228
 dimwishlist:item=2561659919&perks=87986588,1885400500,2869569095,1015611457
@@ -19315,7 +19315,7 @@ dimwishlist:item=2575506895&perks=1482024992,4134353779,1015611457,3425386926
 
 
 // Kindled Orchid - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2575506895&perks=4090651448,4134353779,1168162263,247725512
 dimwishlist:item=2575506895&perks=4090651448,4134353779,1168162263,3425386926
 dimwishlist:item=2575506895&perks=4090651448,4134353779,1168162263,3038247973
@@ -19891,7 +19891,7 @@ dimwishlist:item=2625782213&perks=4090651448,3142289711,3300816228
 
 
 // Pillager - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2653316158&perks=3661387068,1968497646,1168162263,1015611457
 dimwishlist:item=2653316158&perks=3661387068,1968497646,1168162263,3425386926
 dimwishlist:item=2653316158&perks=3661387068,1968497646,2039302152,1015611457
@@ -20067,7 +20067,7 @@ dimwishlist:item=2663204025&perks=1482024992,679225683,1168162263,3425386926
 
 
 // Trackless Waste - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2681395357&perks=1288081797,1968497646,4071163871,1015611457
 dimwishlist:item=2681395357&perks=1288081797,1968497646,4071163871,2213355989
 dimwishlist:item=2681395357&perks=1288081797,1968497646,2039302152,1015611457
@@ -20225,7 +20225,7 @@ dimwishlist:item=2707464805&perks=1332244541,3300816228,4071163871
 
 
 // Bygones - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2712244741&perks=839105230,1968497646,3425386926,1168162263
 dimwishlist:item=2712244741&perks=839105230,1968497646,3425386926,3161816588
 dimwishlist:item=2712244741&perks=839105230,1968497646,1015611457,1168162263
@@ -20374,7 +20374,7 @@ dimwishlist:item=2714022207&perks=1840239774,1687452232,1168162263,2213355989
 
 
 // Tyranny of Heaven - clarke's recommended PvE (god-pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:god-pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:god-pve,mnk,controller
 dimwishlist:item=2721249463&perks=852209214,3827198035,201365942,3365897133
 
 
@@ -20710,7 +20710,7 @@ dimwishlist:item=2744715540&perks=1482024992,4134353779,1820235745,3523296417
 
 
 // Tempered Dynamo - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2753269585&perks=1096957638,689005463,1600092898,3425386926
 dimwishlist:item=2753269585&perks=1096957638,689005463,1600092898,3300816228
 dimwishlist:item=2753269585&perks=1096957638,689005463,4071163871,3425386926
@@ -21563,7 +21563,7 @@ dimwishlist:item=2814093983&perks=1482024992,3230963543,3108830275,3425386926,16
 
 
 // Hoosegow XE5837 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2817798849&perks=981914802,3796465595,2869569095,1275731761
 dimwishlist:item=2817798849&perks=981914802,3796465595,2869569095,706527188
 dimwishlist:item=2817798849&perks=981914802,3796465595,3300816228,1275731761
@@ -21589,7 +21589,7 @@ dimwishlist:item=2817949113&perks=1926090091,4134353779,4071163871
 
 
 // Bad News XF4354 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2824241403&perks=1926090094,106909392,1168162263,1015611457
 dimwishlist:item=2824241403&perks=1926090094,106909392,1168162263,3038247973
 dimwishlist:item=2824241403&perks=1926090094,106909392,3400784728,1015611457
@@ -22367,7 +22367,7 @@ dimwishlist:item=2931957300&perks=1482024992,1687452232,1556840489,4104185692
 
 
 // Toil and Trouble - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=2957367743&perks=1300023272,791862061,3161816588,3425386926
 dimwishlist:item=2957367743&perks=1300023272,791862061,3161816588,3300816228
 dimwishlist:item=2957367743&perks=1300023272,791862061,2869569095,3425386926
@@ -24767,7 +24767,7 @@ dimwishlist:item=3005879473&perks=1840239774,1483536627,1600092898
 
 
 // Proelium FR3 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3027844940&perks=1409978309,689005463,3300816228,1600092898
 dimwishlist:item=3027844940&perks=1409978309,689005463,3300816228,2213355989
 dimwishlist:item=3027844940&perks=1409978309,689005463,4071163871,1600092898
@@ -24851,7 +24851,7 @@ dimwishlist:item=3027844940&perks=1628165637,2969185026,4071163871,2213355989
 
 
 // Erentil FR4 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3027844941&perks=1409978309,689005463,3300816228,1600092898
 dimwishlist:item=3027844941&perks=1409978309,689005463,3300816228,706527188
 dimwishlist:item=3027844941&perks=1409978309,689005463,4071163871,1600092898
@@ -24922,7 +24922,7 @@ dimwishlist:item=3037520408&perks=1482024992,3230963543,1354429876,1546637391
 
 
 // Nameless Midnight - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3040742682&perks=13792279,106909392,588594999,3038247973
 dimwishlist:item=3040742682&perks=13792279,106909392,588594999,3425386926
 dimwishlist:item=3040742682&perks=13792279,106909392,588594999,1015611457
@@ -25175,7 +25175,7 @@ dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457
 
 
 // Dreaded Venture - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3100452337&perks=839105230,106909392,3400784728,280464955
 dimwishlist:item=3100452337&perks=839105230,106909392,3400784728,3300816228
 dimwishlist:item=3100452337&perks=839105230,106909392,3400784728,247725512
@@ -25910,7 +25910,7 @@ dimwishlist:item=3164743584&perks=1482024992,1087426260,2866798147,2551157718
 
 
 // Bite of the Fox - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3169616514&perks=839105230,106909392,957782887,3038247973
 dimwishlist:item=3169616514&perks=839105230,106909392,957782887,3425386926
 dimwishlist:item=3169616514&perks=839105230,106909392,957782887,2869569095
@@ -26018,7 +26018,7 @@ dimwishlist:item=3190698551&perks=1392496348,3142289711,4071163871
 
 
 // Eystein-D - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3199662972&perks=1313805251,1968497646,1168162263,3425386926
 dimwishlist:item=3199662972&perks=1313805251,1968497646,1168162263,1015611457
 dimwishlist:item=3199662972&perks=1313805251,1968497646,588594999,3425386926
@@ -26112,7 +26112,7 @@ dimwishlist:item=3216383791&perks=1926090092,3177308360,706527188
 
 
 // Anonymous Autumn - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3222518097&perks=445755707,1968497646,588594999,1015611457
 dimwishlist:item=3222518097&perks=445755707,1968497646,588594999,3425386926
 dimwishlist:item=3222518097&perks=445755707,1968497646,4071163871,1015611457
@@ -26846,7 +26846,7 @@ dimwishlist:item=3240434620&perks=1840239774,679225683,4245865861,4290541820,138
 
 
 // Vouchsafe - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3242168339&perks=839105230,106909392,2450788523,2848615171
 dimwishlist:item=3242168339&perks=839105230,106909392,2450788523,3038247973
 dimwishlist:item=3242168339&perks=839105230,106909392,2450788523,2458213969
@@ -27029,7 +27029,7 @@ dimwishlist:item=3285365667&perks=1926090091,1561002382,3300816228
 
 
 // Twilight Oath - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3297863558&perks=839105230,1087426260,1556840489,1546637391
 dimwishlist:item=3297863558&perks=839105230,1087426260,1556840489,2848615171
 dimwishlist:item=3297863558&perks=839105230,1087426260,1556840489,3400784728
@@ -27504,7 +27504,7 @@ dimwishlist:item=3354242550&perks=1392496348,1885400500,2779035018,3081867624
 
 
 // Wishbringer - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3356526253&perks=1300023272,106909392,3161816588,3425386926
 dimwishlist:item=3356526253&perks=1300023272,106909392,3161816588,3300816228
 dimwishlist:item=3356526253&perks=1300023272,106909392,2869569095,3425386926
@@ -27798,7 +27798,7 @@ dimwishlist:item=3369545945&perks=1482024992,679225683,2010801679,2213355989
 
 
 // Right Side of Wrong - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3376406418&perks=809345546,106909392,1168162263,3425386926
 dimwishlist:item=3376406418&perks=809345546,106909392,1168162263,1015611457
 dimwishlist:item=3376406418&perks=809345546,106909392,588594999,3425386926
@@ -27994,7 +27994,7 @@ dimwishlist:item=3400256755&perks=3666208348,52780822,2590710093,3913600130
 
 
 // Subtle Calamity - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3410721600&perks=3768438372,16392701,3425386926,3365897133
 dimwishlist:item=3410721600&perks=3768438372,16392701,3425386926,201365942
 dimwishlist:item=3410721600&perks=3768438372,16392701,2848615171,3365897133
@@ -28078,7 +28078,7 @@ dimwishlist:item=3410721600&perks=852209214,3827198035,2848615171,201365942
 
 
 // Crooked Fang-4fr - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3419149443&perks=839105230,689005463,2213355989,3425386926
 dimwishlist:item=3419149443&perks=839105230,689005463,2213355989,1015611457
 dimwishlist:item=3419149443&perks=839105230,689005463,2213355989,2848615171
@@ -28235,7 +28235,7 @@ dimwishlist:item=3445437901&perks=13792278,1687452232,3425386926
 
 
 // Baligant XU7743 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3461377698&perks=1300023272,791862061,3161816588,3425386926
 dimwishlist:item=3461377698&perks=1300023272,791862061,3161816588,3300816228
 dimwishlist:item=3461377698&perks=1300023272,791862061,4071163871,3425386926
@@ -28275,7 +28275,7 @@ dimwishlist:item=3461377698&perks=4090651448,679225683,2869569095,3300816228
 
 
 // The Cut and Run - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3501969491&perks=809345546,1968497646,1168162263,2848615171
 dimwishlist:item=3501969491&perks=809345546,1968497646,1168162263,3425386926
 dimwishlist:item=3501969491&perks=809345546,1968497646,588594999,2848615171
@@ -30768,7 +30768,7 @@ dimwishlist:item=3698448090&perks=1840239774,3230963543,619537267,1067908860,193
 
 
 // Stryker's Sure-Hand - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3704653637&perks=436053704,52780822,2590710093,3708227201
 dimwishlist:item=3704653637&perks=436053704,52780822,2590710093,3913600130
 dimwishlist:item=3704653637&perks=436053704,52780822,1749209109,3708227201
@@ -30804,7 +30804,7 @@ dimwishlist:item=3704653637&perks=938542991,269888150,1749209109,3913600130
 
 
 // Sleepless - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3740842661&perks=981914802,3796465595,3300816228,2396489472
 dimwishlist:item=3740842661&perks=981914802,3796465595,3300816228,3523296417
 dimwishlist:item=3740842661&perks=981914802,3796465595,3300816228,1546637391
@@ -30835,7 +30835,7 @@ dimwishlist:item=3740842661&perks=3798852852,3796465595,706527188,1546637391
 
 
 // The Militia's Birthright - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3745974521&perks=981914802,3032599245,706527188,3300816228
 dimwishlist:item=3745974521&perks=981914802,3301904089,706527188,3300816228
 dimwishlist:item=3745974521&perks=981914802,1716000303,706527188,3300816228
@@ -30848,7 +30848,7 @@ dimwishlist:item=3745974521&perks=3798852852,1716000303,706527188,3300816228
 
 
 // Long Shadow - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3745990145&perks=893526895,106909392,280464955,3400784728
 dimwishlist:item=3745990145&perks=893526895,106909392,280464955,3038247973
 dimwishlist:item=3745990145&perks=893526895,106909392,280464955,3425386926
@@ -30951,7 +30951,7 @@ dimwishlist:item=3748713779&perks=1478423395,2822142346,957782887
 
 
 // Dead Man Walking XX7463 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3751622019&perks=445755707,3142289711,4071163871,1015611457
 dimwishlist:item=3751622019&perks=445755707,3142289711,4071163871,3425386926
 dimwishlist:item=3751622019&perks=445755707,3142289711,1168162263,1015611457
@@ -31029,7 +31029,7 @@ dimwishlist:item=3762467079&perks=3250034553,3230963543,1645158859
 
 
 // Zenobia-D - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3776129137&perks=3525010810,3796465595,2869569095,1275731761
 dimwishlist:item=3776129137&perks=3525010810,3796465595,2869569095,706527188
 dimwishlist:item=3776129137&perks=3525010810,3796465595,3300816228,1275731761
@@ -31067,7 +31067,7 @@ dimwishlist:item=3778520451&perks=3151536503,3177308360,3425386926
 
 
 // Transfiguration - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3799980700&perks=839105230,106909392,3400784728,1015611457
 dimwishlist:item=3799980700&perks=839105230,106909392,3400784728,588594999
 dimwishlist:item=3799980700&perks=839105230,106909392,3425386926,1015611457
@@ -31242,7 +31242,7 @@ dimwishlist:item=3829285960&perks=2405638014,3230963543,1820235745,2039302152
 
 
 // Blast Furnace - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3843477312&perks=1096957638,106909392,1168162263,1015611457
 dimwishlist:item=3843477312&perks=1096957638,106909392,1168162263,3425386926
 dimwishlist:item=3843477312&perks=1096957638,106909392,2779035018,1015611457
@@ -31749,7 +31749,7 @@ dimwishlist:item=3954531357&perks=3661387068,2010801679,588594999
 
 
 // Wrong Side of Right - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=3957603605&perks=809345546,106909392,1168162263,3038247973
 dimwishlist:item=3957603605&perks=809345546,106909392,1168162263,3425386926
 dimwishlist:item=3957603605&perks=809345546,106909392,588594999,3038247973
@@ -31853,7 +31853,7 @@ dimwishlist:item=4041111172&perks=1478423395,2985827016,706527188
 
 
 // Trust - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=4077196130&perks=4090651448,3142289711,2848615171,3038247973
 dimwishlist:item=4077196130&perks=4090651448,3142289711,2848615171,3425386926
 dimwishlist:item=4077196130&perks=4090651448,3142289711,1168162263,3038247973
@@ -31905,7 +31905,7 @@ dimwishlist:item=4077196130&perks=3250034553,4134353779,1168162263,3425386926
 
 
 // Persuader - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=4083045006&perks=767484757,106909392,280464955,3400784728
 dimwishlist:item=4083045006&perks=767484757,106909392,280464955,3038247973
 dimwishlist:item=4083045006&perks=767484757,106909392,280464955,3425386926
@@ -31936,7 +31936,7 @@ dimwishlist:item=4083045006&perks=767484757,4134353779,2869569095,3425386926
 
 
 // Techeun Force - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=4094657108&perks=839105230,689005463,4071163871,1600092898
 dimwishlist:item=4094657108&perks=839105230,689005463,4071163871,3425386926
 dimwishlist:item=4094657108&perks=839105230,689005463,1015611457,1600092898
@@ -32146,7 +32146,7 @@ dimwishlist:item=4117693024&perks=1047830412,791862061,3161816588,706527188
 
 
 // Mindbender's Ambition - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=4117693024&perks=1300023272,791862061,3161816588,3425386926
 dimwishlist:item=4117693024&perks=1300023272,791862061,3161816588,3300816228
 dimwishlist:item=4117693024&perks=1300023272,791862061,4071163871,3425386926
@@ -32166,7 +32166,7 @@ dimwishlist:item=4117693024&perks=4090651448,106909392,4071163871,3300816228
 
 
 // Go Figure - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=4138174248&perks=809345546,1968497646,1168162263,3425386926
 dimwishlist:item=4138174248&perks=809345546,1968497646,1168162263,1015611457
 dimwishlist:item=4138174248&perks=809345546,1968497646,588594999,3425386926
@@ -32278,7 +32278,7 @@ dimwishlist:item=4145119417&perks=194952922,106909392,2848615171
 
 
 // Outrageous Fortune - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=4146702548&perks=3809316345,3999527219,2869569095,3425386926
 dimwishlist:item=4146702548&perks=3809316345,3999527219,2869569095,706527188
 dimwishlist:item=4146702548&perks=3809316345,3999527219,3300816228,3425386926
@@ -32342,7 +32342,7 @@ dimwishlist:item=4146702548&perks=3798852852,1716000303,3300816228,706527188
 
 
 // Show of Force XF4865 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=4148143418&perks=893526895,106909392,247725512,3400784728
 dimwishlist:item=4148143418&perks=893526895,106909392,247725512,3038247973
 dimwishlist:item=4148143418&perks=893526895,106909392,2869569095,3400784728
@@ -32482,7 +32482,7 @@ dimwishlist:item=4203034886&perks=1261178282,599007201,3913600130
 
 
 // Pribina-D - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=4211534763&perks=1926090094,106909392,1168162263,1954620775
 dimwishlist:item=4211534763&perks=1926090094,106909392,1168162263,3038247973
 dimwishlist:item=4211534763&perks=1926090094,106909392,3400784728,1954620775
@@ -32528,7 +32528,7 @@ dimwishlist:item=4227181568&perks=839105230,1885400500,4071163871,3708227201
 
 
 // Steel Sybil Z-14 - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=4230993599&perks=436053704,52780822,1749209109,3913600130
 dimwishlist:item=4230993599&perks=436053704,52780822,1749209109,354401740
 dimwishlist:item=4230993599&perks=436053704,52780822,2590710093,3913600130
@@ -32730,7 +32730,7 @@ dimwishlist:item=4288031461&perks=1483536627,2010801679,3425386926
 
 
 // Crimil's Dagger - clarke's recommended PvE (pve,mnk,controller)
-//notes: clarke (PvE): Old weapon, no notes (older than S7). tags:pve,mnk,controller
+//notes: clarke (PvE): Old weapon, no notes (too old). tags:pve,mnk,controller
 dimwishlist:item=4292849692&perks=1926090094,106909392,1168162263,1015611457
 dimwishlist:item=4292849692&perks=1926090094,106909392,1168162263,3038247973
 dimwishlist:item=4292849692&perks=1926090094,106909392,3400784728,1015611457
